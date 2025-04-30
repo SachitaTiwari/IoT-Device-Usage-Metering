@@ -18,7 +18,7 @@ To enable transparent, tamper-proof, and decentralized tracking of IoT device us
 - **Real-time Analytics**: Build dashboards powered by usage logs.
 - **Integration with IoT Platforms**: Connect directly with platforms like AWS IoT, Azure IoT, or Arduino-based devices.
 - ## Contract Details
-- 0x3A6e2D4Dc857F5e25ABB7618b12d433072598174
- ![Screenshot 2025-04-23 154211](https://github.com/user-attachments/assets/332c87d9-7bc3-4cfd-adbd-e66d0c4f9618)
- 
+Contract address :0xf6Ff20b18c5dC91D09EFd5243A3D93eEd90e9b79
+![image](https://github.com/user-attachments/assets/f877e908-d334-4b2d-ac79-0b9b547a45b7)
+
 
